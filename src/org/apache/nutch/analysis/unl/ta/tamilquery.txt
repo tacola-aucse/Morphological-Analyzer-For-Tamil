@@ -1,0 +1,19 @@
+டைடல் பூங்கா -ok
+விவேகானந்தர் இல்லம்-only results of vivekananthar ,no results for விவேகானந்தர் இல்லம்(no problem in analyser)
+வள்ளுவர் கோட்டம் -ok
+அண்ணா நினைவிடம்-no document (no problem in analyser)
+அண்ணா சதுக்கம் -''(no problem in analyser)
+அம்பேத்கார் மணிமண்டபம் -(No documents)
+பாரதியார் நினைவு இல்லம்-''
+காந்தி நினைவு மண்டபம்-one result
+காமராஜர் நினைவகம் -no result
+கிண்டி சிறுவர் பூங்கா - "சிறுவர் பூங்கா" not gindy poonga but when i give கிண்டி பூங்கா it gives guindy poonga results
+பாம்பு பண்ணை -good results 
+கோட்டை அருங்காட்சியகம்-no results
+அஷ்டலட்சுமி கோயில்
+வி.ஜி.பீ கோல்டன் பீச் -aappu naal -analyzer check
+கங்கைகொண்ட சோழபுரம்-good results
+கள்ளன் குறிச்சி கோவில் அரியலூர் 
+காரைவெட்டி பறவைகள் சரணாலயம்-(காரைவெட்டி analyser converts into காரை&taking only paravai saranalayam)
+ 
+
